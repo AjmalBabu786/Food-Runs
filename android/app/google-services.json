@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83552363148",
+    "project_id": "food-runs-f5e72",
+    "storage_bucket": "food-runs-f5e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83552363148:android:dfcd4f663596989bad91a9",
+        "android_client_info": {
+          "package_name": "com.ajmal.food_runs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83552363148-fle6lu1potp08o56fkg51p2d6hnp6dda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUtCiCFHk0znfRXMQHhWufP-wK3hUmvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83552363148-fle6lu1potp08o56fkg51p2d6hnp6dda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
